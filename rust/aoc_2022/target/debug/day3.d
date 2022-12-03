@@ -1,0 +1,1 @@
+/home/nkirschall/projects/aoc_2022/rust/aoc_2022/target/debug/day3: /home/nkirschall/projects/aoc_2022/rust/aoc_2022/src/bin/day3.rs /home/nkirschall/projects/aoc_2022/rust/aoc_2022/src/bin/input3.txt
